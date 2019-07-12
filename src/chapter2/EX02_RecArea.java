@@ -30,6 +30,24 @@ System.out.println("사각형의 넓이는" + rectangleArea + "입니다.");
 	// 자동으로 출력해 rextangleArea를 미리 계산해 문장으로 결과를 나타내줌
 		
 		
+//교수님이 한 거 
+/* 필요한 변수 선언
+Scanner sc = new Scanner(System.in);
+double width, height;
+double recArea;
+
+// 입력을 요구하는 메시지 출력
+System.out.println("가로의 길이를 입력하세요");
+width = sc.nextDouble();
+System.out.println("세로의 길이를 입력하세요");
+height = sc.nextDouble();
+
+// 입력받은 가로, 세로길이를 이용하여 면적 계산
+recArea = width * height;
+
+// 계산된 결과를 출력
+System.out.println("4각형의 면적 : " + recArea);
+*/
 		
 	}
 
